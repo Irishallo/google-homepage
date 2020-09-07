@@ -1,0 +1,17 @@
+.gsearch {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav {
+    display: inline;
+}
+
+nav1 {
+   float: left;
+}
+
+nav2 {
+    float: right;
+}
