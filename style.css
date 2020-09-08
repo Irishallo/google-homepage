@@ -39,3 +39,50 @@ input {
     border-radius: 5px;
     border: none;
 }
+
+ul.nav1 {
+    list-style-type: none;
+    float: left;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+
+ul.nav2 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 20px;
+    right: 10px;
+}
+
+li {
+    display: inline;
+    padding: 8px;
+}
+
+#gapps {
+    height: 20px;
+    width: 20px;
+    background-color: #7A7A7A;
+    border: none;
+}
+
+.nav2 button {
+    height: 30px;
+    width: 70px;
+    background-color: #625ffd;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    text-transform: capitalize;
+}
+
+a {
+    text-decoration: none;
+    color: #313131;
+    font-size: 12px;
+}
